@@ -1,0 +1,9 @@
+renders/
+tools/blender_rooms/
+__pycache__/
+*.mp4
+*.mov
+Intermediate/
+Saved/
+DerivedDataCache/
+Binaries/
